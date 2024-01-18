@@ -14,4 +14,6 @@ char randomchar(){
     
     char randomletter = 'A' + (random() % 26);
     return randomletter;
+
+   
 }
